@@ -58,8 +58,9 @@ Maybe you need to download some extension of jupyter notebook like Codefolding (
 
 ## You may find the dataset and the pre-train model in simple-faster-rcnn.
 
-## Also, here is a hand-writing notebook about how a batch of data (in this case, 1 img) goes through the training step,
-   with all the shape of intermediate variables are marked.
+## Also, here is a hand-writing notebook 
+   and it's about how a batch of data (in this case, 1 img) goes through the training step,with all the shape of intermediate variables are marked.
+   
    Forgive my Scribbled handwriting.
 
 ![notes](https://github.com/cmd23333/The-Simplest-Faster-RCNN/blob/master/imgs/notesLook.png)
