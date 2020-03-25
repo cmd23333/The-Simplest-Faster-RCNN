@@ -21,7 +21,7 @@ and Regroup the pipeline according to the order of how faster rcnn runs.
     
     Add many comments on nearby statements
      
-## the notebook has the 10 main parts as the pic show below.
+## the notebook has the 9 main parts as the pic show below.
 
 1.Library<br>
 2.Config<br>
@@ -32,7 +32,6 @@ and Regroup the pipeline according to the order of how faster rcnn runs.
 7.FasterRCNN<br>
 8.Trainer<br>
 9.Training<br>
-10.Evaluating<br>
 
 ![notebook](https://github.com/cmd23333/The-Simplest-Faster-RCNN/blob/master/imgs/fileLook.png)
 
