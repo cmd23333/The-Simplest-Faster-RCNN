@@ -7,6 +7,11 @@ Drop any additional improvements and tricks based on simple-faster-rcnn(https://
 
 and Regroup the pipeline according to the order of how faster rcnn runs.
 
+## New Datasets~
+League of Legends' champions were labeled. (Actually only Fiona, Jinx, Zoe, Irelia, Akali, Ashe, Evelynn were used. ^-^ as I love them.)
+The file The-Simplest-Faster-RCNN-demo.ipynb was modified to suit our datasets. here is a result：
+![result](https://github.com/cmd23333/The-Simplest-Faster-RCNN/blob/master/imgs/result.png)
+
 ## Details:
 
     VGG16 for backbone
